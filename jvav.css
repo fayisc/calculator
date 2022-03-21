@@ -1,0 +1,108 @@
+body{
+width: 100%;
+height: 600px;
+background: radial-gradient(darkred,black);
+
+}
+.main-body{
+	margin-top: 50px;
+
+
+}
+
+
+.calc{
+	width: 290px;
+	height: 450px;
+	background:black;
+	margin-left: 400px;
+	border: solid  ;
+	border-radius: 35px;
+	padding-top: 10px;
+
+
+
+}
+#screen{
+	margin: 10px;
+    width: 220px;
+    height: 100px;
+    margin-top: 28px;
+    pointer-events: none;
+    background: black;
+    margin-left: 30px;
+    border-width: 1px;
+   border-color: dimgrey;
+    border-right: dimgrey;
+    border-left: dimgrey;
+    color: #6c6c6e;
+    font-size: 25px;
+
+
+}
+.btn{
+	width: 60px;
+	height: 45px;
+    margin-left: 30px;
+   padding-left: 10px;
+  margin-top: 15px;
+  
+    
+}
+img{
+	    width: 162px;
+    padding-left: 249px;
+}
+.op{
+	background: rgb(238,238,238);
+}
+.eq{
+	background:darkorange;
+	color: whitesmoke;
+}
+.num{
+	background: rgb(209,209,209);
+}
+.new{
+	margin-left: 23px;
+	width: 80px;
+	margin-top: 10px;
+}
+.brand{
+	color:dimgrey;
+	margin-left: 100px;
+	font-size:20px;
+	font-family: Trebuchet MS ;
+
+
+}
+.ds{
+	margin-left: 30px;
+}
+.row{
+	margin-left: 20px;
+}
+.clearscreen{
+	margin-left: 25px;
+	width: 235px;
+	font-size: 20px;
+	font-family: Trebuchet MS;
+	border-color: darkorange;
+	border: solid;
+    border-color: yellow;
+
+
+}
+.btborder{
+	
+border-color: whitesmoke;
+    border-width: 2px;
+    border-color: dimgrey;
+	
+	
+
+
+}
+.buttons{
+
+}
